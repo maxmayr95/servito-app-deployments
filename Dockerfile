@@ -1,1 +1,1 @@
-FROM servitome/servito-app:staging-4.0.0
+FROM servitome/servito-app:staging-4.1.0
